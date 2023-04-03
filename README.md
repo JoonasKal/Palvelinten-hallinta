@@ -33,7 +33,11 @@ Seuraavaksi tein käyttäjän "joonaste01", muokkasin sen sijaintia ja lopuksi p
 
 Seuraavaksi asensin Apache2, ja katsoin, että se meni oikeasti päälle.
 
+<img src="https://user-images.githubusercontent.com/104196551/229506387-dfecbe37-f171-49cb-a409-c4b440b72db3.png" width="500" height="250" />
 
+<img src="https://user-images.githubusercontent.com/104196551/229506487-a40e7005-e4a5-42b3-8c52-eeabf1ffab95.png" width="500" height="250" />
+
+<img src="https://user-images.githubusercontent.com/104196551/229506428-e791827a-298c-4554-8bee-1d03461d390a.png" width="500" height="250" />
 
 Lopuksi tein vielä infraa koodina.
 
