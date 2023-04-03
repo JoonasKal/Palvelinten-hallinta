@@ -23,3 +23,5 @@ Seuraavaksi tein idempotent komentoja. Tein tiedosto ja se lisättiin. Kuten kuv
 
 <img src="https://user-images.githubusercontent.com/104196551/229489624-e08649f7-35da-4d04-bd17-8896b2808c81.png" width="500" height="250" />
 
+Seuraavaksi tein käyttäjän "joonaste01", muokkasin sen sijaintia ja lopuksi poistin sen.
+
