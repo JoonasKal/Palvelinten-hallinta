@@ -33,4 +33,4 @@ Seuraavaksi tein käyttäjän "joonaste01", muokkasin sen sijaintia ja lopuksi p
 
 Lopuksi tein vielä infraa koodina.
 
-<img src="https://user-images.githubusercontent.com/104196551/229493234-efb7c3a8-707e-42aa-bf05-8d36ee40b2a4.png" width="500" height="250" />
+<img src="https://user-images.githubusercontent.com/104196551/229493234-efb7c3a8-707e-42aa-bf05-8d36ee40b2a4.png" width="500" height="150" />
