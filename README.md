@@ -14,3 +14,4 @@ Käynnistin koneet komennolla "Vagrant up". Tämän jälkeen otin yhteyden tmast
 
 Seuraavaksi käskin orjien esittämään niistä tietoa.
 
+<img src="https://user-images.githubusercontent.com/104196551/229488849-5c720dc4-3b0e-4b68-8a05-d59518b987f5.png" width="500" height="250" />
