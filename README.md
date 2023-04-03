@@ -25,7 +25,7 @@ Seuraavaksi tein idempotent komentoja. Tein tiedosto ja se lisättiin. Kuten kuv
 
 Seuraavaksi tein käyttäjän "joonaste01", muokkasin sen sijaintia ja lopuksi poistin sen.
 
-<img src="https://user-images.githubusercontent.com/104196551/229492508-e9244308-8eb4-4b96-a71a-45afa8dbf84b.png" width="500" height="250" />
+<img src="https://user-images.githubusercontent.com/104196551/229492508-e9244308-8eb4-4b96-a71a-45afa8dbf84b.png" width="500" height="300" />
 
 <img src="https://user-images.githubusercontent.com/104196551/229492571-5673af6c-6e49-4282-a423-750bfc8096ca.png" width="500" height="250" />
 
