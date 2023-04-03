@@ -37,5 +37,5 @@ Lopuksi tein vielä infraa koodina.
 
 ## Lähteet
 
-- Tero Karvinen:https://terokarvinen.com/2023/palvelinten-hallinta-2023-kevat/#h1-suolaa
+- Tero Karvinen: https://terokarvinen.com/2023/palvelinten-hallinta-2023-kevat/#h1-suolaa
 
