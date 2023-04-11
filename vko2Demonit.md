@@ -5,3 +5,6 @@ Ensimmäiseksi otin yhteyden masteriin "vagrant ssh tmaster" -komennolla. Seuraa
 Tämän jälkeen otin yhteyden orjaan ja asensin salt-minionin.
 
 ![asennus slave](https://user-images.githubusercontent.com/104196551/231209423-31ba5a7a-70c4-4a68-be6c-8d560674736b.png)
+
+Seuraavaksi annoin sille nimen (id).
+
