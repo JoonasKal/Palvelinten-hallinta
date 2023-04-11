@@ -1,4 +1,4 @@
-#Palvelinten hallinta kurssi
+Palvelinten hallinta kurssi
 
 Kotitehävät tulee tänne
 
