@@ -17,9 +17,11 @@ Seuraavaksi käynnistin orjan uudelleen, jotta muutokset tallentuvat.
 ![restart slave](https://user-images.githubusercontent.com/104196551/231210940-11f97533-b180-4769-bc21-17525a95cc20.png)
 
 Hyväksyin avaimen masterilla.
+
 ![avaimen hyväksyminen ](https://user-images.githubusercontent.com/104196551/231211076-ab49505f-f7ae-4ed3-a3eb-bf7ff30e227e.png)
 
-Testasin, että se toimii:
+Testasin, että se toimii.
+
 ![testi 'whoami'](https://user-images.githubusercontent.com/104196551/231211037-d0f008ee-713a-44c9-af3b-dcc241d5590c.png)
 
 Tein ohjeiden mukaan sshd.sls ja sshd_config tiedostot, mutta kun ajoin komentoa " sudo salt '*' state apply sshd" sain tällaisen errorin.
