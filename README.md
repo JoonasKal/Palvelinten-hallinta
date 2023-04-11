@@ -1,3 +1,4 @@
 #Palvelinten hallinta kurssi
 
-##Kotitehtävien palautukset tänne
+Kotitehävät tulee tänne
+
