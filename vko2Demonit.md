@@ -8,3 +8,7 @@ Tämän jälkeen otin yhteyden orjaan ja asensin salt-minionin.
 
 Seuraavaksi annoin sille nimen (id).
 
+![slave id](https://user-images.githubusercontent.com/104196551/231210253-6f85a856-9f67-4f0f-a101-18e3a3e638b9.png)
+
+![slave edit](https://user-images.githubusercontent.com/104196551/231210321-764abe26-e536-4c7f-bda8-8685f544b2b7.png)
+
